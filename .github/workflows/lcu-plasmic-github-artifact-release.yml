@@ -18,7 +18,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm ci
   BuildCommand: npm run build
-  Output: ./public
+  Output: ./
 
 jobs:
   build:
